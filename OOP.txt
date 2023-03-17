@@ -1,0 +1,150 @@
+Extras
+
+Why do you use inline function ? Explain with a suitable example . [2020 Fall]
+What do you mean by static data member ? Explain with examples . [2021 Spring]
+Explain the advantages of making any argument as default argument in function definition . [2021 Fall]
+What is data hiding ? How do you achieve data hiding in C+ ? Explain with a suitable program . [2019 Fall]
+Private data and function of a class cannot be accessed from outside function . Explain how it is possible to access then with reference of an example . [2018 Fall]
+
+
+Constructors and Destructors
+
+What is copy constructor in C+ ? Is it possible to pass object as argument in copy constructor ? Explain with suitable program . [2020 Fall]
+What is constructor ? Can constructor be overloaded ? If yes how ? [2018 Fall]
+What are default and parameterized constructors ? Write a program to illustrated parameterized constructor . [2020 Fall]
+Can you make same name to define more than one constructors ? Explain with example . [2021 Fall]
+Why do you need a destructor in a program ? Can you pass arguments in a destructor ? Explain with an example program . [2021 Fall]
+Can you have more than one constructor in a program ? Write a program to find area of a triangle (when its sides are given) using the concept o overloaded constructor . [2018 Spring]
+Explain default and parameterized constructors with examples . How can you solve the problem due to the same function name that occurs in both base and derived classes ? Explain with example . [2021 Spring]
+[Simple Code] Can a class have more than one constructor ? If yes, justify your answer with help of a program that reads firstName and secondName then concatenates into Name . (use suitable type of constructor) . [2018 Spring]
+
+
+Inheritance and its Types
+
+List out the types of inheritance that are supported in C++ . Explain any three of them with program code . [2021 Fall]
+How inheritance does supports reusability ? What are the different forms of inheritance ? Explain with example . [2020 Fall]
+What are the different types of inheritance ? Describe multiple inheritance with an example . [2018 Spring]
+What are the advantage of inheritance ? Explain multi-level inheritance with example . [2019 Fall]
+How can you solve the ambiguity that arises in multiple inheritance ? Explain with program example . [2021 Fall]
+How does inheritance support reusability ? List out different forms of inheritance and explain any two of them . [2021 Spring]
+What is a hybrid inheritance ? Does ambiguity occur in hybrid inheritance ? If Yes ? How can you remove this ? Explain with example . [2018 Fall]
+Why is protected access specifier used in C++ ? Explain with example different types of inheritance with examples . [2020 Fall]
+
+
+Operator Overloading
+
+Write a program showing + and '-' operator overloading . [2018 Spring]
+What is operator overloading ? Write a program to find the sum and difference of any two complex numbers by overloading + and - operator . [2019 Fall]
+Explain operator overloading in brief . Write a program to ov unary minus ( - ) operator . Explain function overriding with a suitable program . [2021 Spring]
+Write a program to add two complex numbers . Your program should have three objects . Each object contains two attributes (i.e real and imaginary part) . Now add each attribute and save them into third object seperately . Use the concept of +' operator overloading . [2019 Spring]
+Why operators are overloaded ? We have avclass name Complex which have a data member real and imaginary, Default and parameterized constructor are there to initialize the data member . WAP overloading unary operator ++ where real and imaginary data member will be incremented and + operator to add two complex number . [2021 Fall]
+Write a program to overload multiplication operator (*) showing the multiplication of two objects . [2020 Fall]
+
+
+Friend Function
+
+Does friend function breach encapsulation ? Justify with examples . [2021 Fall]
+Friend function is not the member function of a class . Justify the statement with suitable program . [2020 Fall]
+What are the advantages and disadvantages of using friend function ? Explain with example program . [2018 Fall]
+Ilustrate the role of friend function in object oriented programming with its pros and cons . Also write a suitable program . [2018 Spring]
+Illustrate the role of friend function in object oriented programming, with its pros and cons . Also write a suitable prograin . [2019 Spring]
+
+
+CRC cards
+
+Explain CRC ecards and sequence diagram with examples  . [2021 Fall]
+Explain CRC cards and sequence diagram with examples . [2019 Spring]
+Explain CRC card and sequence diagram with suitable example . [2019 Fall]
+What is CRC card ? Why is it necessary in programming ? Prepare a CRC card for library management system [2020 Fall]
+Differentiate between CRC and Sequence Handling . [2018 Spring]
+
+
+Features of OOP
+
+With the help of object oriented programming explain how can object oriented programming cope in solving the complex program . Explain computation as simulation . [2018 Fall]
+How is data abstraction achieved in Object Oriented Programming ? Explain the features of Object Oriented Programming . [2021 Spring]
+What features of Object Oriented Programming have made it more special than Procedural Oriented Programming ? Explain . [2021 Fall]
+What are the key features of Object Oriented Programming ? Explain with example . [2020 Fall]
+What are the advantages of oriented programming over structural programming ? Explain with suitable examples . [2018 Spring]
+
+
+Exception Handling
+
+What is exception ? . Explain in brief about the exception handling mechanism in CH . [2019 Fall]
+What are exceptions ? How are they handled in C++ ? [2021 Spring]
+Explain the purpose of template programming with examples . Describe the technique of exception handling in C++-with examples . [2019 Spring]
+Explain the purpose of template programming with examples . Describe the technique of exception handling in C++ with examples . [2021 Fall]
+
+
+Template Class and Function
+
+Do you find any advantages of generic programming ? Write a function template to find the product of two numbers . [2021 Spring]
+What is function template ? Create a template function to swap two values . [2018 Fall]
+Create a template function swap() and use it to swap two integers,two floating point data and two characters . [2020 Fall]
+Differentiate between template function and template class . How can we compute the roots of quadratic equation by using function template ? Explain by examples . [2018 Spring]
+
+Pointer and Pure Polymorphism
+
+Why is this pointer widely used than object pointer ? Write a programme to implement pure polymorphism . [2019 Fall]
+Why does this pointer is widely used than object pointer ? Write a programme to implement pure polymorphism . [2018 Spring]
+Explain subtype, principal of substitutability, object pointer, this pointer, virtual function with examples . [2021 Fall]
+Explain subtype, principal of substituablity, object pointer, this pointer,virtual function with examples . [2019 Spring]
+
+
+Dynamic Memory Allocation
+
+What are the use of new and delete operator in a program  ? Explain with an suitable example . [2018 Fall]
+How can you overload constructors ? Explain with suitable example . What is dynamic memory allocation ? How do you allocate memory dynamically in C+ ? Explain with an example . [2019 Fall]
+What is dynamic memory allocation ? How is memory allocated and de-allocated in C++ ? Explain with examples [2019 Spring]
+What do you understand by memory allocation ? Describe memory allocation and deallocation methods in C++ . [2021 Spring]
+
+
+Software Design Pattern
+
+Explain how does composition provide re-usability ? Differentiate between Is-A rule and Has-A rule . [2018 Fall]
+Differentiate between i) interface and implementation and ii) coupling and cohesion . [2020 Fall]
+Define computation as simulation . Why the behaviour of complexity is regarded as non-linear ? [2018 Spring]
+Define Reusability ? What are the advantages of software Reusability in OOP design ? [2018 Spring]
+
+
+Virtual Base Class and Function
+
+What do you mean by virtual base class ? In which condition do you implement it ? Explain with suitable example . [2021 Spring]
+What do you mean by virtual base class ? At which condition it has to be implemented ? Explain with suitable example . [2019 Fall]
+What is virtual function?When do we make a function virtual ? Explain with appropriate example . [2020 Fall]
+
+
+Polymorphism
+
+What is compile time and run time polymorphism ? How can you achieve runtime polymorphism in C++ ? Explain deferred method . [2018 Fall]
+How can you achieve compile time and runtime polymorphism . Explain with examples . [2019 Spring]
+How can you achieve compile time and runtime polymorphism ? Explain with example . [2021 Fall]
+
+
+Abstraction
+
+What is the use of abstraction mechanism in C++ ? Explain with example . [2019 Fall]
+Software development process is not linear . Justify . Explain abstraction mechanism technique in C++ with examples . [2019 Spring]
+
+
+Type Casting
+
+What is type casting ? Write a program to read a height of a person in Feet and Inches and convert it into Meter using user defined to class type conversion method . 1 meter=3.28084 feet, 1 feet=12 inch . [2018 Fall]
+What do you mean by type casting ? Write a program to convert an object of Polar class into the object of Rectangle class by using type convesion routine . [2019 Spring]
+
+
+Access Specifiers
+
+Differentiate between structure and class in C++ ? What are the various access specifiers used in class ? [2019 Spring]
+What are the different types of access specifiers ? Using a class write a program that receives inputs principle amount, time and rate . Keeping rate 8% as the default argument, calculate the simple interest for three customers . [2019 Fall]
+
+
+Code
+
+The following figure shows minimum information required for each class, Write a program by realizing the necessary member functions to read and display information of induvidual object . Every class should contain at least one constructor and should be inherited to other classes as well . [2019 Fall]
+The following figure shows minimum information required for each class . Write a program by realize the necessary member functions to read and display information of induvidual object . Every class should contain at least one constructor and should be inherited to other classes as well . [2018 Spring]
+Create a class called Person with suitable data members to represent their name and age . Use member functions to initialize and display these information . Derive Student and Employee from the Person class with their unique features . Initialize objects of these classes using constructor and display the information . [2019 Spring]
+Write a program to input two vector coordinates from a base class named Base . Class Derived inherits .all the properties of class Base . Class Derived must contain a function named add_vector() that add the two vectors input from the base class and finally display the result from a function display() that is friend with the base class . [2019 Spring]
+Create classes called class1 and class2 with each of having one private member . Add member function to set a value (say set_value) on each class . Add one more function max()that is friendly to both classes . The max() function should compare two private member of the two classes and show maximum among them . Create one object for each class then set a value to each object . Display the maximum number among them . [2021 Spring]
+Create a class Person with data members Name, Age and Address . Create another class Teacher with data members Qualification and Department . Also create another class Student with data member Program and Semester . Both class are inherited from the class Person . Every class has at least one constructor which uses base class constructor . Create member function Show Data() in each to display the information of the class member . [2018 Fall]
+Create a class called Employee with data member Code, Name, Address, Salary . Create a constructor to initialize the member of the class . Also create another constructor so that we can create an object from another object . Define member function display() to display the information of the class . [2018 Fall]
